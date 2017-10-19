@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="activit_file_browser" type="XML" />
+      <mapping pattern="activity_main" type="XML" />
+      <mapping pattern="activity_client" type="XML" />
+    </extensionMap>
+  </component>
+</application>
